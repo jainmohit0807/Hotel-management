@@ -10,6 +10,10 @@ This project is a window based application developed in **Java**. The objective 
 * Bill Feature:-This feature is used to get the bill the of the respective customer.
 * Search Feature:-It helps to get the information about the customer.
 
+### Tools Required
+* Eclipse Mars IDE
+* Mysql
+
 ### How to run on your system
 For run this project on your system you have to copy whole project on your system and move it into **Eclipse Mars IDE** workspace.
 
