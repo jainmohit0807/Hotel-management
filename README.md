@@ -15,7 +15,7 @@ This project is a window based application developed in **Java**. The objective 
 * Mysql
 
 ### How to run on your system
-For run this project on your system you have to copy whole project on your system and move it into **Eclipse Mars IDE** workspace.
+For run this project on your system you have to copy whole project on your system and move it into **Eclipse Mars IDE** workspace. You have to load mysql-connector-java-5.0.8-bin file in Eclipse IDE. And also want to use hotel.sql as an backend.
 
 * After that open LoginPage.java and run it on Eclipse IDE.
  * A login window will be opened.
