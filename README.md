@@ -5,6 +5,8 @@ You can use this project by the following step given below.
 1. Run the LoginPage.java file in the eclipse Mars.
 
 (a) A login window will be opened.
+![loginpage](https://cloud.githubusercontent.com/assets/21156428/22984459/6d021966-f3cb-11e6-806f-e49688174590.png)
+
 (b) You will have to write "Admin" in the username and "mohit" as a password and click the button "Login".
 (c) You can also change the password by clicking "Change password".As we click on "Change Password" a new window is opened whose coding is done in change.java
 
