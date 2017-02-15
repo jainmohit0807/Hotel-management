@@ -1,14 +1,22 @@
 # Hotel Management System
 
-This project is a window based application developed in **Java**. The objective of the **Hotel Management System** is to maintain the booking of the rooms, to handle availability of rooms,find the information of the customers,check the bills of the customers and so on.
+This project is a window based application developed in **Java**. The objective of the **Hotel Management System** is to maintain the booking of the rooms, to handle availability of rooms, find the information of the customers, check the bills of the customers and so on.
 
-###Project Features
-* <html><u>Booking Feature</u></html>:- 
+### Project Features
+*Login/Logout Feature:-It has an account named as **Admin** in which we have to first log in and then book the room, check the bills and so on. 
+*Booking Feature:-This window based application can easily book a room which is available at that time.
+*Status:-Status is feature which show which room is occupied by which person presently and also its check In/Out dates.
+*Advance Booking Feature:- If anyone wants to book a room in advance it can easily book a room in advance.
+*Bill Feature:- 
+*Search Feature:-
+
+### How to run on your system
+For run this project on your system you have to copy whole project on your system and move it into **Eclipse Mars IDE** workspace. After that open LoginPage.java and run it on Eclipse IDE.
+
 
 Run the LoginPage.java file in the eclipse Mars.
 
-A login window will be opened. 
-
+*A login window will be opened. 
 ![loginpage](https://cloud.githubusercontent.com/assets/21156428/22984459/6d021966-f3cb-11e6-806f-e49688174590.png)
 
 *You will have to write **Admin** in the username and **mohit** as a password and click the button "Login".
