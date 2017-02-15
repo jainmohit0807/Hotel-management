@@ -3,7 +3,7 @@
 This project is a window based application developed in **Java**. The objective of the **Hotel Management System** is to maintain the booking of the rooms, to handle availability of rooms,find the information of the customers,check the bills of the customers and so on.
 
 ###Project Features
-* <u>Booking Feature<u>:- 
+* <html><u>Booking Feature</u></html>:- 
 
 Run the LoginPage.java file in the eclipse Mars.
 
