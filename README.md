@@ -12,8 +12,8 @@ A login window will be opened.
 * You can also change the password by clicking "Change password".As we click on "Change Password" a new window is opened whose coding is done in change.java
 
 2. After login in the page.
-* A new window will appear named as StaffPage.java
-* On that window we see many options like "Home","Book Now","Status","Advance Booking","Check IN/OUT","Bills","Search","Cancel","Logout"
+- A new window will appear named as StaffPage.java
+- On that window we see many options like "Home","Book Now","Status","Advance Booking","Check IN/OUT","Bills","Search","Cancel","Logout"
 * By default "Home" will be opened. Coding of "Home" page is done in Panel_home.java
 * By clicking "Book Now" we can simply book the room. Coding of "Book Now" is done in Panel1.java
 * By clicking "Status" we get the status of the rooms. That is, which room is occupied by which person and also its check In/Out dates. Coding of this page is done in Panel2.java 
