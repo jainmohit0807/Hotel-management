@@ -15,11 +15,13 @@ For run this project on your system you have to copy whole project on your syste
 
 * After that open LoginPage.java and run it on Eclipse IDE.
  * A login window will be opened.
+ 
  ![loginpage](https://cloud.githubusercontent.com/assets/21156428/22984459/6d021966-f3cb-11e6-806f-e49688174590.png)
  * You will have to write **Admin** in the username and **mohit** as a password and click the button "Login".
  * You can also change the password by clicking "Change password".As we click on "Change Password" a new window is opened whose coding is done in change.java
 * After login in the page.
  * A new window will appear named as StaffPage.java
+ 
  * On that window we see many options like "Home","Book Now","Status","Advance Booking","Check IN/OUT","Bills","Search","Cancel","Logout"
  * By default "Home" will be opened. Coding of "Home" page is done in Panel_home.java
   * By clicking "Book Now" we can simply book the room. Coding of "Book Now" is done in Panel1.java
