@@ -21,7 +21,8 @@ For run this project on your system you have to copy whole project on your syste
  * You can also change the password by clicking "Change password".As we click on "Change Password" a new window is opened whose coding is done in change.java
 * After login in the page.
  * A new window will appear named as StaffPage.java
- 
+ ![admin](https://cloud.githubusercontent.com/assets/21156428/22990931/c96720ba-f3e0-11e6-8277-f410c057acfd.png)
+
  * On that window we see many options like "Home","Book Now","Status","Advance Booking","Check IN/OUT","Bills","Search","Cancel","Logout"
  * By default "Home" will be opened. Coding of "Home" page is done in Panel_home.java
   * By clicking "Book Now" we can simply book the room. Coding of "Book Now" is done in Panel1.java
